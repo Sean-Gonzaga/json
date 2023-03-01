@@ -1,0 +1,29 @@
+
+{
+  "students": [
+    {
+      "name": "Sean Gonzaga",
+      "age": 26,
+      "email": "sean@mail.com",
+      "isEnrolled": false
+    },
+     {
+      "name": "frence Albarracin",
+      "age": 24,
+      "email": "frence@mail.com",
+      "isEnrolled": true
+    },
+     {
+      "name": "jesssica estrada",
+      "age": 25,
+      "email": "jessica@mail.com",
+      "isEnrolled": false
+    },
+    {
+      "name": "aj Rejas",
+      "age": 30,
+      "email": "aj@mail.com",
+      "isEnrolled": true
+    }
+    ]
+}
