@@ -3,27 +3,13 @@
   "students": [
     {
       "name": "Sean Gonzaga",
-      "age": 26,
-      "email": "sean@mail.com",
-      "isEnrolled": false
+      "age": 21,
+      "email": "Thous shall not kill",
     },
      {
-      "name": "frence Albarracin",
-      "age": 24,
-      "email": "frence@mail.com",
-      "isEnrolled": true
-    },
-     {
-      "name": "jesssica estrada",
-      "age": 25,
-      "email": "jessica@mail.com",
-      "isEnrolled": false
-    },
-    {
-      "name": "aj Rejas",
-      "age": 30,
-      "email": "aj@mail.com",
-      "isEnrolled": true
+      "section": "BSIT-3B",
+      "code": T2309,
+      "email": "2001105150@student.buksu.edu.ph",
     }
     ]
 }
