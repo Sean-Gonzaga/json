@@ -1,14 +1,16 @@
 {
-  "students": [
+  "student": [
     {
       "name": "Sean Gonzaga",
       "age": 21,
       "quote": "Thou shall not kill"
-    },
+    }
+    ],
+  "section": [
     {
       "section": "BSIT - 3B",
       "code": "T230",
       "email": "20001105150@student.buksu.edu.ph"
     }
-    ]
+  ]
 }
